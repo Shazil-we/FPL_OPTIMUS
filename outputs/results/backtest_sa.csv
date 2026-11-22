@@ -1,0 +1,39 @@
+gw,points,cumulative,transfers,captain,expected,agent
+1,81.0,81.0,0,Erling Haaland,60.38089231924144,SimulatedAnnealing
+2,41.0,122.0,1,Erling Haaland,54.35932380442146,SimulatedAnnealing
+3,54.0,176.0,1,Bruno Borges Fernandes,52.694875246123935,SimulatedAnnealing
+4,54.0,230.0,1,Erling Haaland,52.45803429040347,SimulatedAnnealing
+5,51.0,281.0,1,Chris Wood,51.68100537192408,SimulatedAnnealing
+6,48.0,329.0,1,Erling Haaland,59.755538475724634,SimulatedAnnealing
+7,74.0,403.0,1,Erling Haaland,57.861752159124784,SimulatedAnnealing
+8,84.0,487.0,1,Erling Haaland,54.71936959363804,SimulatedAnnealing
+9,55.0,542.0,1,Gabriel dos Santos Magalhães,54.44806648584367,SimulatedAnnealing
+10,77.0,619.0,1,Gabriel dos Santos Magalhães,63.07972819344889,SimulatedAnnealing
+11,41.0,660.0,1,Erling Haaland,70.76263216393079,SimulatedAnnealing
+12,70.0,730.0,1,Declan Rice,63.898884468679945,SimulatedAnnealing
+13,37.0,767.0,1,Erling Haaland,62.46860671777834,SimulatedAnnealing
+14,66.0,833.0,1,Elliot Anderson,53.62016246750542,SimulatedAnnealing
+15,53.0,886.0,1,Erling Haaland,53.132433857706424,SimulatedAnnealing
+16,71.0,957.0,1,Phil Foden,56.55885730991137,SimulatedAnnealing
+17,57.0,1014.0,1,Phil Foden,65.76515004724345,SimulatedAnnealing
+18,39.0,1053.0,1,Erling Haaland,64.52404816140277,SimulatedAnnealing
+19,54.0,1107.0,1,Erling Haaland,65.40735768861565,SimulatedAnnealing
+20,39.0,1146.0,1,Erling Haaland,61.74393580611527,SimulatedAnnealing
+21,56.0,1202.0,1,Erling Haaland,62.946840292367554,SimulatedAnnealing
+22,67.0,1269.0,1,Florian Wirtz,52.60849595089435,SimulatedAnnealing
+23,64.0,1333.0,1,Antoine Semenyo,56.75287412688561,SimulatedAnnealing
+24,75.0,1408.0,1,Gabriel dos Santos Magalhães,56.88668299703475,SimulatedAnnealing
+25,55.0,1463.0,1,Gabriel dos Santos Magalhães,60.590629169277236,SimulatedAnnealing
+26,59.0,1522.0,1,Gabriel dos Santos Magalhães,81.39982980920338,SimulatedAnnealing
+27,42.0,1564.0,1,Enzo Fernández,55.67857722409558,SimulatedAnnealing
+28,53.0,1617.0,1,Morgan Rogers,54.41181846115864,SimulatedAnnealing
+29,87.0,1704.0,1,Antoine Semenyo,54.664635722949896,SimulatedAnnealing
+30,56.0,1760.0,1,Antoine Semenyo,54.277696077699964,SimulatedAnnealing
+31,34.0,1794.0,1,Malick Thiaw,45.90460392187512,SimulatedAnnealing
+32,53.0,1847.0,1,Bruno Borges Fernandes,54.13675309319897,SimulatedAnnealing
+33,66.0,1913.0,1,Dominic Calvert-Lewin,74.60818668115182,SimulatedAnnealing
+34,53.0,1966.0,1,Bruno Borges Fernandes,47.69148292897217,SimulatedAnnealing
+35,67.0,2033.0,1,Dominic Calvert-Lewin,55.961976027456465,SimulatedAnnealing
+36,89.0,2122.0,1,Erling Haaland,70.48163927863182,SimulatedAnnealing
+37,62.0,2184.0,1,James Tarkowski,56.21389024588696,SimulatedAnnealing
+38,47.0,2231.0,1,Erling Haaland,52.21548439441427,SimulatedAnnealing

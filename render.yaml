@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: fpl-optimus-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile.backend
+    plan: free
+    envVars:
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: PORT
+        value: "8000"
+    healthCheckPath: /health

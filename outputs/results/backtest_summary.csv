@@ -1,0 +1,5 @@
+agent,total_points,mean_gw_points,transfers,best_gw
+SimulatedAnnealing,2231.0,58.71052631578947,37,89.0
+HillClimbing,2171.0,57.13157894736842,37,86.0
+Random,2135.0,56.18421052631579,37,94.0
+Greedy,2084.0,54.8421052631579,37,101.0
